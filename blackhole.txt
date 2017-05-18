@@ -1,0 +1,130 @@
+<title>AVA Recordings</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm06sLbxgWmc4sKIySZcvGUd</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>In Trance We Trust</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLB563927546CC3ECC</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Damaged Records</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0DBfkgqXUVpHXt_E1v_CzX</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Rielism</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm2JqgaqV2I3f-8x4GJ2jkYH</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>UltraViolet Music</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm3gL_4snJdp3gZg7wCe3cFf</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Create Music</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm3-jFIve-LVAstE9d7xPxfy</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Outburst Records</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0CHjpeS33hXiW4_Fo395-p</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Pure Progressive</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0IPCzXxtq0a8zfXmVmVrGD</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>M.I.K.E. Push Studio</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0BtxwHE_egPArTP8M_tiAj</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Magik Muzik</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLEF9A818E4AEDF897</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Perfecto Black</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0gU0v67CztgRPzTxOv2ih0</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Cycles</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm28feKSR9T1CHDnyPYzqV5n</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Avanti</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL15F45E923FA77DC7</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Pure Trance</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm2c0Wk3Ia6Q1-CMOjqCYw75</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Reloaded Music</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm1J3hPDstzWl4vxPdfKNfe8</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>GO On Air Recordings</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm2DMAkr2O9I_c5gH2Z2PJt4</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Infrasonic Recordings</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm30tn-l07ypH8NN7WgYhBEO</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Ride Recordings</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm2zFEhL9SBUXIpQptPrO-eO</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Afterdark</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm1nKIuI7qvejqkEbesdQT1L</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Techburst Records</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm24xCPWSLKhW6w6LG0XrIoT</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Black Hole</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL46AAE95F7201D9DC</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Perfecto House</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0JSeA5cxxDy9oX6ZM0PrO3</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Magic Island</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm2y8WrfpQi5aEIXalymW439</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Perfecto Fluoro</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0rNSaUDnKn_9TZRMEnH5_p</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Outburst Twilight</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm1GAReBJySysKhVGnjPeAN0</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Grotesque</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm2ozZYTvVte33HUF0jPmLxM</link>
+<thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+

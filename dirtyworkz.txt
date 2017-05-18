@@ -1,0 +1,65 @@
+<title>Week In Review by Dirty Workz</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrLUxmJpY6vNfUMrrbmG1Tc_</link>
+<thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+<title>Wolf Clan - Hard with a touch of Urban</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrLBuIrH4I7ZHMFXihv6XtwT</link>
+<thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+<title>Global Dedication - The Podcast</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrJCNMaHw-xaE1cN0hHVE_sk</link>
+<thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+
+<title>Anarchy - Releases (Raw Hardstyle)</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrJYiSLgm6SIBf4x5nSVgJfm</link>
+<thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+
+<title>Isaac's Hardstyle Sessions</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLDCD8491699D1E841</link>
+<thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+
+<title>Dirty Workz - Video Clips</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL1A9CC8FC89BA6A7D</link>
+<thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+
+<title>DWX Update - Releases (Sounds of the Future)</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL29C7F79349AECBF1</link>
+<thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+plugin://plugin.video.youtube/play/?playlist_id=
+<title>Dirty Workz - Releases</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLAF6181D582E96A3C</link/>
+<thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+
+<title>Dirty Workz Favourites</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=FLt8hUmML7zjM6effdZ3Ip5A</link>
+<thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+
+<title>Liked videos</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=LLt8hUmML7zjM6effdZ3Ip5A</link>
+<thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>

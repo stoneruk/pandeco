@@ -1,0 +1,28 @@
+<title>Euphoric</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLq2pjFm4O6TA-eFNMf-7rSRQzSa4ab-gX</link>
+<thumbnail>https://yt3.ggpht.com/-2f-faUAveeg/AAAAAAAAAAI/AAAAAAAAAAA/3LZ4bLzDuxM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Raw</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLq2pjFm4O6TAnNVpHM83SGt7eFKKOyhpb</link>
+<thumbnail>https://yt3.ggpht.com/-2f-faUAveeg/AAAAAAAAAAI/AAAAAAAAAAA/3LZ4bLzDuxM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Hard Drop/Experimental/Old School</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLq2pjFm4O6TD3tsL7rh52FuMAlDlhcmzs</link>
+<thumbnail>https://yt3.ggpht.com/-2f-faUAveeg/AAAAAAAAAAI/AAAAAAAAAAA/3LZ4bLzDuxM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Rawphoric</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLq2pjFm4O6TAdevC0_dOwNQa0i-7iPA4g</link>
+<thumbnail>https://yt3.ggpht.com/-2f-faUAveeg/AAAAAAAAAAI/AAAAAAAAAAA/3LZ4bLzDuxM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>ThrowbackThursdays (#tbt)</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLq2pjFm4O6TB9DTntj64qBsZFMrQhoHBj</link>
+<thumbnail>https://yt3.ggpht.com/-2f-faUAveeg/AAAAAAAAAAI/AAAAAAAAAAA/3LZ4bLzDuxM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+
+

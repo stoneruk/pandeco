@@ -1,0 +1,5 @@
+<title>Hardstyleofchoice-Hardstyle Mixes</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL0GVNeUz0_Fl_YknDZbiMHxTH3mlqbS9C</link>
+<thumbnail>https://yt3.ggpht.com/-djqK-u0E1Ek/AAAAAAAAAAI/AAAAAAAAAAA/_hRNo-faKl0/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+

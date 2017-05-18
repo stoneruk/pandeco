@@ -1,0 +1,81 @@
+<title>Scantraxx Silver - Releases</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL8A2211885648CA99</link>
+<thumbnail>https://yt3.ggpht.com/-ByBejYBhqug/AAAAAAAAAAI/AAAAAAAAAAA/sC1ZVBIWENQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Scantraxx Recordz - Releases</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLC5EAA326C57608EF</link>
+<thumbnail>https://yt3.ggpht.com/-ByBejYBhqug/AAAAAAAAAAI/AAAAAAAAAAA/sC1ZVBIWENQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>A2 Records - Releases</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLuoriEIb_dmlCd-rfQbiJQYEFZzza9VTH</link>
+<thumbnail>https://yt3.ggpht.com/-nigon9tvaOQ/AAAAAAAAAAI/AAAAAAAAAAA/MFRY2_jFPkw/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>The Magic Show | Releases</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL414FB62E20BFB140</link>
+<thumbnail>https://yt3.ggpht.com/-3Y5r8jCPx24/AAAAAAAAAAI/AAAAAAAAAAA/ia7RyJnYcLw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Blutonium Boy Releases</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL3a9YHS6W3aWxTxdXG_Xyf1Nq0q8Qo1-J</link>
+<thumbnail>https://yt3.ggpht.com/-cgCQEvNb8nM/AAAAAAAAAAI/AAAAAAAAAAA/CEGPXwVcJsE/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Cloud 9 Music - Latest Releases</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL-xJ-ilPK-rQp-5tZoAsyVkgsYo2Cs85e</link>
+<thumbnail>https://yt3.ggpht.com/-RAZlY-PbZK4/AAAAAAAAAAI/AAAAAAAAAAA/Fw5CPIwVYhs/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title> 2-Dutch Agency Releases</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLuRQubzSC5zvj-7_0xhw2AjL88Vicgr5E</link>
+<thumbnail>https://yt3.ggpht.com/-VnlWyS1yT3g/AAAAAAAAAAI/AAAAAAAAAAA/Pmaoz7QIuYg/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Dutch Master Works - OUT NOW</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL3143A681A1376BF7</link>
+<thumbnail>https://yt3.ggpht.com/-VnlWyS1yT3g/AAAAAAAAAAI/AAAAAAAAAAA/Pmaoz7QIuYg/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Dj Thera Releases</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL38373854C24244F4</link>
+<thumbnail>https://yt3.ggpht.com/-PSz1HVBXudo/AAAAAAAAAAI/AAAAAAAAAAA/BDmcCwnGS-Y/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>HARD with STYLE Releases | HWS</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLMOO_-XRplbbdg4iVcxkHjsOZG_v1GEKN</link>
+<thumbnail>https://yt3.ggpht.com/-n5L_dqv6wAI/AAAAAAAAAAI/AAAAAAAAAAA/SBmcXbiVStc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Jack of Sound Releases</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL1E64525901B6921D</link>
+<thumbnail>https://yt3.ggpht.com/-j6cUVbaVVNc/AAAAAAAAAAI/AAAAAAAAAAA/8kj3coPPCr4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Heart for Hard Records</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL256BDEC967FA757D</link>
+<thumbnail>https://yt3.ggpht.com/-YJuHarspv9g/AAAAAAAAAAI/AAAAAAAAAAA/vZa_5nARKHY/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Hard Driver Previews</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL3982B32FDC9A12DE</link>
+<thumbnail>https://yt3.ggpht.com/26pxP1SAttcP0URklBAFnybWBP72UsjGQ2CyCPkm93HQwYrOzsa5MDZEuXJIMyViZUcSlCS8SCWs6JNArQ=s100-nd-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart></fanart>
+
+<title>The Pitcher - Releases</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLFD5A277E9652C0D2 </link>
+<thumbnail>https://yt3.ggpht.com/-4sylCAt6XRc/AAAAAAAAAAI/AAAAAAAAAAA/RcZ9HwLz0Zw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+
+
+
+
+
+
+
+
+
+
