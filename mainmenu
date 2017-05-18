@@ -1,10 +1,4 @@
 <dir>
-<name>Movies Main</name>
-<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/movies_1.txt</link>
-<thumbnail>https://raw.githubusercontent.com/stoneruk/pandeco/master/Movies.png</thumbnail>
-</dir>
-
-<dir>
 <name>TV</name>
 <link>https://raw.githubusercontent.com/stoneruk/pandeco/master/movies_1.txt</link>
 <thumbnail>https://raw.githubusercontent.com/stoneruk/pandeco/master/Wip.png</thumbnail>
