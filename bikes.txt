@@ -1,0 +1,24 @@
+<dir>
+<name>Red Bull Bikes</name>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLnuf8iyXggLGvb-gozxAPRQYIfUbc8fuj</link>
+<thumbnail>https://yt3.ggpht.com/-V1E6nSEmRlM/AAAAAAAAAAI/AAAAAAAAAAA/zFmOgJmgH2s/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>UCI Mountain bike</name>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL7NFlV830crNw76ewQr7CrCAl5MIKtYBW</link>
+<thumbnail>https://yt3.ggpht.com/-8mdxlvmBpBc/AAAAAAAAAAI/AAAAAAAAAAA/VYWyiG-F3XU/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Pink Bike</name>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQCfPUTFFOknQmMUhJrraPE7HlScH1PGW</link>
+<thumbnail>https://yt3.ggpht.com/-MHpMNdH_AZo/AAAAAAAAAAI/AAAAAAAAAAA/DVLV8NPaJrA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Vital MTB</name>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLLiDwPfY-lhzOJ8lBM6B3OwLnLxy-OXHD</link>
+<thumbnail>https://yt3.ggpht.com/-PonOfeCYYzU/AAAAAAAAAAI/AAAAAAAAAAA/cDTYPLi-Oh0/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</dir>
+
