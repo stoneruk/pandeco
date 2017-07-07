@@ -1,8 +1,31 @@
+
+<dir>
+<name>Music</name>
+<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/muzic.txt</link>
+<thumbnail></thumbnail>
+</dir>
+
+
+<dir>
+<name>Hardstyle Dj And Label Releases</name>
+<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/hrd.txt</link>
+<thumbnail></thumbnail>
+</dir>
+
+
+<dir>
+<name>Bikes</name>
+<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/bikes.txt</link>
+<thumbnail>http://lapierre-catalog.ultra-com.com/sites/default/files/actualite/lp-new-dh2.jpg</thumbnail>
+</dir>
+
+
 <dir>
 <name>TV</name>
 <link>https://raw.githubusercontent.com/stoneruk/pandeco/master/movies_1.txt</link>
 <thumbnail>https://raw.githubusercontent.com/stoneruk/pandeco/master/Wip.png</thumbnail>
 </dir>
+
 
 <dir>
 <name>Kids</name>
@@ -12,29 +35,7 @@
 
 
 <dir>
-<name>Music</name>
-<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/muzic.txt</link>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name>Hardstyle Dj And Label Releases</name>
-<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/hrd.txt</link>
-<thumbnail>https://raw.githubusercontent.com/stoneruk/pandeco/master/888pandeco.png</thumbnail>
-</dir>
-
-<dir>
-<name>Bikes</name>
-<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/bikes.txt</link>
-<thumbnail>http://lapierre-catalog.ultra-com.com/sites/default/files/actualite/lp-new-dh2.jpg</thumbnail>
-</dir>
-
-
-
-<dir>
 <name>Radio[Coming Soon]</name>
 <link>https://raw.githubusercontent.com/stoneruk/pandeco/master/movies_1.txt</link>
 <thumbnail>https://raw.githubusercontent.com/stoneruk/pandeco/master/Wip.png</thumbnail>
 </dir>
-
-
