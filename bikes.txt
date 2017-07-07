@@ -1,6 +1,6 @@
 <title>Red Bull Bikes</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLnuf8iyXggLGvb-gozxAPRQYIfUbc8fuj</link>
-<thumbnail>plugin://plugin.video.youtube/play/?playlist_id=PLnuf8iyXggLGvb-gozxAPRQYIfUbc8fuj</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-V1E6nSEmRlM/AAAAAAAAAAI/AAAAAAAAAAA/zFmOgJmgH2s/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
 <title>UCI Mountain Bike</title>
