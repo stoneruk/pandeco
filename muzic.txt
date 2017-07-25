@@ -18,27 +18,27 @@
 <fanart></fanart>
 
 
-<title>Wolf Clan - Hard with a touch of Urban</title>
+<title>Wolf Clan - Hard with a touch of Urban[Dirty Workz]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrLBuIrH4I7ZHMFXihv6XtwT</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
 
-<title>Global Dedication - The Podcast</title>
+<title>Global Dedication - The Podcast[Dirty Workz]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrJCNMaHw-xaE1cN0hHVE_sk</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
 
 
-<title>Anarchy - Releases (Raw Hardstyle)</title>
+<title>Anarchy - Releases (Raw Hardstyle)[Dirty Workz]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrJYiSLgm6SIBf4x5nSVgJfm</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
 
 
-<title>Isaac's Hardstyle Sessions</title>
+<title>Isaac's Hardstyle Sessions[Dirty Workz]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLDCD8491699D1E841</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
@@ -52,7 +52,7 @@
 
 
 
-<title>DWX Update - Releases (Sounds of the Future)</title>
+<title>DWX Update - Releases (Sounds of the Future)[Dirty Workz]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL29C7F79349AECBF1</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
@@ -73,74 +73,74 @@
 
 
 
-<title>Liked videos</title>
+<title>Liked videos[Dirty Workz]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=LLt8hUmML7zjM6effdZ3Ip5A</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
 
 
-<title>AVA Recordings</title>
+<title>AVA Recordings[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm06sLbxgWmc4sKIySZcvGUd</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>In Trance We Trust</title>
+<title>In Trance We Trust[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLB563927546CC3ECC</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Damaged Records</title>
+<title>Damaged Records[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0DBfkgqXUVpHXt_E1v_CzX</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Rielism</title>
+<title>Rielism[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm2JqgaqV2I3f-8x4GJ2jkYH</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>UltraViolet Music</title>
+<title>UltraViolet Music[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm3gL_4snJdp3gZg7wCe3cFf</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Create Music</title>
+<title>Create Music[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm3-jFIve-LVAstE9d7xPxfy</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Outburst Records</title>
+<title>Outburst Records[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0CHjpeS33hXiW4_Fo395-p</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Pure Progressive</title>
+<title>Pure Progressive[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0IPCzXxtq0a8zfXmVmVrGD</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>M.I.K.E. Push Studio</title>
+<title>M.I.K.E. Push Studio[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0BtxwHE_egPArTP8M_tiAj</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Magik Muzik</title>
+<title>Magik Muzik[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLEF9A818E4AEDF897</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Perfecto Black</title>
+<title>Perfecto Black[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0gU0v67CztgRPzTxOv2ih0</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Cycles</title>
+<title>Cycles[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm28feKSR9T1CHDnyPYzqV5n</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Avanti</title>
+<title>Avanti[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL15F45E923FA77DC7</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
