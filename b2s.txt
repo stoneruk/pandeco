@@ -1,134 +1,55 @@
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<title>b2s presents DJ Paul Elstak</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQf0QCXD0NpwkER3XaLsLT-O1gRsT8Tq5</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<title>Decibel outdoor</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL1828054F5D85FB02</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<title>Pussy lounge events</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL87A1C7EEBCE2C5BE</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<title>Hard Bass</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL05CB8C886FBA0705</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<title>b2s TV season 7</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQf0QCXD0NpzWpm4n_292i2w7vNx0p1HL</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<title>1992 is 4 you! festival</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQf0QCXD0Npx1l5enkxP6nglgm5o96R8P</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<title>Loudness events</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLB9157C75249203D7</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<title>Hardcore4life</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL72BF313A3C2002F3</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<title>Pussy lounge</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQf0QCXD0NpxuB9IGEDIMLNgBNrbPzLCv</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<title>back2school</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL877BF73996258712</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<title>Decibel outdoor 2016</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQf0QCXD0NpwlO-IzkVVipzM-tX_VLswf</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
-<thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
-<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
-<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
-<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
-<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
-<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
-<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
-<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
-<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
-<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
-<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart></fanart>
-
-<title></title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
-<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
