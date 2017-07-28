@@ -1,5 +1,5 @@
 
-<title>ADM Hardstyle Radio</title>
+<title>[COLOR orange][B]ADM Hardstyle Radio[/B][/COLOR]</title>
 <title>ADM Hardstyle Radio</title>
 <link>http://streaming.radionomy.com/ADMHardstyleRadio?lang=en-US%2cen%3bq%3d0.8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/816030878455463936/tf_IWOzl_400x400.jpg</thumbnail>
