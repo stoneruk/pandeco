@@ -14,7 +14,7 @@
 <fanart></fanart>
 
 <title>Smurfs: The Lost Village (2017)</title>
-<link>https://docs.google.com/file/d/0B66FPzBPqQ_LU1pHY1d3dGpEZDQ//edit</link>
+<link>https://docs.google.com/file/d/0B66FPzBPqQ_LU1pHY1d3dGpEZDQ/edit</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1NjgyMTYzM15BMl5BanBnXkFtZTgwMzIxNDc4MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 
