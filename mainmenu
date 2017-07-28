@@ -1,5 +1,11 @@
 
 <dir>
+<name>Kids Movies</name>
+<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/kids.txt</link>
+<thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
+</dir>
+
+<dir>
 <name>Music</name>
 <link>https://raw.githubusercontent.com/stoneruk/pandeco/master/muzic.txt</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHcEO6AHvev8F9MTayj1RKwg2APyJXencMftjMsqb7PHbqhnGM</thumbnail>
@@ -10,6 +16,20 @@
 <name>Hardstyle Dj And Label Releases</name>
 <link>https://raw.githubusercontent.com/stoneruk/pandeco/master/hrd.txt</link>
 <thumbnail>https://stocklogos-pd.s3.amazonaws.com/styles/logo-medium-alt/logos/image/1345322376-462ab02f55bd3d51774b12ea73abf3cc.png?itok=G85-FLYH</thumbnail>
+</dir>
+
+
+<dir>
+<name>[COLOR orange][B]Q-dance[/B][/COLOR]</name>
+<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/qdance.txt</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</dir>
+
+
+<dir>
+<name>[COLOR blue][B]b2s[/B][/COLOR]</name>
+<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/b2s.txt</link>
+<thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </dir>
 
 
@@ -28,28 +48,7 @@
 
 
 <dir>
-<name>Kids</name>
-<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/kids.txt</link>
-<thumbnail>https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/movie.png</thumbnail>
-</dir>
-
-
-<dir>
 <name>Radio[Coming Soon]</name>
 <link>https://raw.githubusercontent.com/stoneruk/pandeco/master/movies_1.txt</link>
 <thumbnail>https://raw.githubusercontent.com/stoneruk/pandeco/master/Wip.png</thumbnail>
-</dir>
-
-
-<dir>
-<name>[COLOR orange][B]Q-dance[/B][/COLOR]</name>
-<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/qdance.txt</link>
-<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-</dir>
-
-
-<dir>
-<name>[COLOR blue][B]b2s[/B][/COLOR]</name>
-<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/b2s.txt</link>
-<thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </dir>
