@@ -1,3 +1,28 @@
+<title>The LEGO Batman Movie (2017)</title>
+<link>https://docs.google.com/file/d/0BxTqk2XI10_XVkZySmp0MzdpWU0/edit</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>The Boss Baby (2017)</title>
+<link>https://docs.google.com/file/d/0B-TyxOTL1KPJTDFiN1ZVVnJFb0U/edit</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Despicable Me 3 (2017)</title>
+<link>http://vidzi.tv/1kqrz2qadlbm.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Smurfs: The Lost Village (2017)</title>
+<link>https://docs.google.com/file/d/0B66FPzBPqQ_LU1pHY1d3dGpEZDQ//edit</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1NjgyMTYzM15BMl5BanBnXkFtZTgwMzIxNDc4MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Cars 3 (2017)</title>
+<link>http://vidzi.tv/d3o7kicnay3m.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NzU2OTYyN15BMl5BanBnXkFtZTgwMTkwOTg2MTI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+
 <title>Tangled: Before Ever After (2017)</title>
 <link>https://docs.google.com/file/d/0BzaIvao6-tpxSU9VLWVHWmxHeFU/edit</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOWJjOGVjMmYtNzVhYy00N2IwLTkxNzgtZjc3NjY3MzYxYWJlL2ltYWdlXkEyXkFqcGdeQXVyNTAzOTQ2ODU@._V1_UY268_CR147,0,182,268_AL_.jpg</thumbnail>
@@ -7,7 +32,6 @@
 <link>http://streamcloud.eu/v26kmv50dxes/Bunyan.and.Babe.2017.HDRip.x264.AC3.6CH-WAVE.mkv.mp4.html</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4NzIzMzQ1NF5BMl5BanBnXkFtZTgwMTU4OTQwMTI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
-
 
 <title>Trolls (2016)</title>
 <link>https://docs.google.com/file/d/0BwNUU3ERgeDgeFI1dTZGOGZVUXM/edit</link>
