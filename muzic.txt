@@ -213,3 +213,95 @@
 <thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
+
+<title>[COLOR orange][B]Q-dance[/B][/COLOR]</title>
+
+<title>Defqon.1 Weekend Festival 2017</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKWGWkwuvKCP0KRsh7xaJ3Sg</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>This is Defqon.1</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKUyEssw4OD3YqvfcQCuwGwc</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Defqon.1 Festival</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKW2bYVILpNICo7bOjArDWlx</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Official Q-dance Anthems & Soundtracks</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKXmQkCVmAip_zTX5i3Guqkw</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Q-dance Aftermovies</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKVCsvUsD-xkpkIg-It0kFZJ</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Q-dance Trailers</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKXcgJpLoGHCXuT4baA5j6Gc</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Defqon.1 Endshows</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKVY0RN-GH_kZWPIaSaH_Gq7</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Defqon.1 Aftermovies</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKULLx3bx8k4RRt7ALpmSJ7h</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Q-BASE</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKUVzmo9R1F8mP3TD6oyiwef</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>The colors of Defqon.1 2017</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKVIy68GVvRmLRds2zvmKJY1</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Official Q-dance Aftermovies</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKWUwOjcYV_AQ1K1Ju2NRIRa</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Defqon.1 Weekend Festival 2016</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKXO35RWMGMzCDwMsyj1V6dm</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Qlimax 2016 | Live Sets</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKXfJSa3NY0Ya-lv0O9Tl8AX</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Qlimax</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKWdfqZdhdTRtgebmO32o08G</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Defqon.1 Weekend Festival 2016 | Live sets</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKUEq2FW8sL7lFvGNYq-NTum</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Q-BASE 2016 | Live sets</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKV94LT_irq-e6DGN7vn90zw</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Freaqshow</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKUdswaq58gMhykqtF7hD2tu</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>Freaqshow | Anthems</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKU4E2nrw1m2-bj9ne69TDNw</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+
