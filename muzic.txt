@@ -15,22 +15,22 @@
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]Wolf Clan - Hard with a touch of Urban[Dirty Workz][/B][/COLOR]</title>
+<title>[COLOR orange]Wolf Clan - Hard with a touch of Urban[Dirty Workz] [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrLBuIrH4I7ZHMFXihv6XtwT</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]Global Dedication - The Podcast[Dirty Workz][/B][/COLOR]</title>
+<title>[COLOR orange]Global Dedication - The Podcast[Dirty Workz] [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrJCNMaHw-xaE1cN0hHVE_sk</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]Anarchy - Releases (Raw Hardstyle)[Dirty Workz][/B][/COLOR]</title>
+<title>[COLOR orange]Anarchy - Releases (Raw Hardstyle)[Dirty Workz] [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrJYiSLgm6SIBf4x5nSVgJfm</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]Isaac's Hardstyle Sessions[Dirty Workz][/B][/COLOR]</title>
+<title>[COLOR orange]Isaac's Hardstyle Sessions[Dirty Workz] [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLDCD8491699D1E841</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
@@ -45,24 +45,24 @@
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]Dirty Workz - Releases[/B][/COLOR]</title>
+<title>[COLOR orange]Dirty Workz - Releases[/B] [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLAF6181D582E96A3C</link/>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]Dirty Workz Favourites[/B][/COLOR]</title>
+<title>[COLOR orange]Dirty Workz Favourites[/B] [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=FLt8hUmML7zjM6effdZ3Ip5A</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]Liked videos[Dirty Workz][/B][/COLOR]</title>
+<title>[COLOR orange]Liked videos[Dirty Workz][/B] [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=LLt8hUmML7zjM6effdZ3Ip5A</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
 
 
-<title>[COLOR red][B]Blackhole Recordings[/B][/COLOR]</title>
+<title>[COLOR red][B]Blackhole Recordings[/B] [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm06sLbxgWmc4sKIySZcvGUd</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
