@@ -1,5 +1,5 @@
 
-<title>Radio Stations</title>
+<title>ADM Hardstyle Radio</title>
 
 <title>ADM Hardstyle Radio</title>
 <link>http://streaming.radionomy.com/ADMHardstyleRadio?lang=en-US%2cen%3bq%3d0.8</link>
@@ -7,11 +7,7 @@
 <fanart></fanart>
 
 
-
-
-
-
-
+<title>Hardstyleofchoice-Hardstyle</title>
 
 <title>Hardstyleofchoice-Hardstyle Mixes</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL0GVNeUz0_Fl_YknDZbiMHxTH3mlqbS9C</link>
@@ -19,6 +15,7 @@
 <fanart></fanart>
 
 
+<title>Dirty Workz</title>
 
 <title>Week In Review by Dirty Workz</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrLUxmJpY6vNfUMrrbmG1Tc_</link>
@@ -87,6 +84,8 @@
 <fanart></fanart>
 
 
+<title>Blackhole Recordings</title>
+
 
 <title>AVA Recordings[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm06sLbxgWmc4sKIySZcvGUd</link>
@@ -154,6 +153,8 @@
 <fanart></fanart>
 
 
+<title>The Hardstyle Musicz</title>
+
 
 <title>Euphoric</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLq2pjFm4O6TA-eFNMf-7rSRQzSa4ab-gX</link>
@@ -180,6 +181,8 @@
 <thumbnail>https://yt3.ggpht.com/-2f-faUAveeg/AAAAAAAAAAI/AAAAAAAAAAA/3LZ4bLzDuxM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
+
+<title>EuphoricHardStyleZ</title>
 
 
 <title>Retail Releases (Radio & Original Mix)</title>
