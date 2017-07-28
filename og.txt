@@ -125,7 +125,10 @@
 <thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-
+<title>Si Ferry Meets...Aiden McGeady Episode 3 - 2007 - 2010 Celtic years, Leaving for Russia</title>
+<link>https://www.youtube.com/embed/LJxeszWwVGI/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
 
 
 
