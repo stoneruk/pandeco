@@ -1,54 +1,54 @@
-<title>b2s presents DJ Paul Elstak</title>
+<title>[COLOR blue][B]b2s presents DJ Paul Elstak[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQf0QCXD0NpwkER3XaLsLT-O1gRsT8Tq5</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Decibel outdoor</title>
+<title>[COLOR blue][B]Decibel outdoor[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL1828054F5D85FB02</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Pussy lounge events</title>
+<title>[COLOR blue][B]Pussy lounge events[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL87A1C7EEBCE2C5BE</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Hard Bass</title>
+<title>[COLOR blue][B]Hard Bass[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL05CB8C886FBA0705</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>b2s TV season 7</title>
+<title>[COLOR blue][B]b2s TV season 7[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQf0QCXD0NpzWpm4n_292i2w7vNx0p1HL</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>1992 is 4 you! festival</title>
+<title>[COLOR blue][B]1992 is 4 you! festival[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQf0QCXD0Npx1l5enkxP6nglgm5o96R8P</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Loudness events</title>
+<title>[COLOR blue][B]Loudness events[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLB9157C75249203D7</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Hardcore4life</title>
+<title>[COLOR blue][B]Hardcore4life[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL72BF313A3C2002F3</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Pussy lounge</title>
+<title>[COLOR blue][B]Pussy lounge[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQf0QCXD0NpxuB9IGEDIMLNgBNrbPzLCv</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>back2school</title>
+<title>[COLOR blue][B]back2school[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL877BF73996258712</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Decibel outdoor 2016</title>
+<title>[COLOR blue][B]Decibel outdoor 2016[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQf0QCXD0NpwlO-IzkVVipzM-tX_VLswf</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>

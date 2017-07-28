@@ -1,311 +1,279 @@
-
 <title>[COLOR orange][B]ADM Hardstyle Radio[/B][/COLOR]</title>
-
-
-<title>ADM Hardstyle Radio</title>
 <link>http://streaming.radionomy.com/ADMHardstyleRadio?lang=en-US%2cen%3bq%3d0.8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/816030878455463936/tf_IWOzl_400x400.jpg</thumbnail>
 <fanart></fanart>
 
 
-
 <title>[COLOR red][B]Hardstyleofchoice-Hardstyle[/B][/COLOR]</title>
-
-
-
-<title>Hardstyleofchoice-Hardstyle Mixes</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL0GVNeUz0_Fl_YknDZbiMHxTH3mlqbS9C</link>
 <thumbnail>https://yt3.ggpht.com/-djqK-u0E1Ek/AAAAAAAAAAI/AAAAAAAAAAA/_hRNo-faKl0/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
 
-<title>[COLOR orange][B]Dirty Workz[/B][/COLOR]</title>
-
-<title>Week In Review by Dirty Workz</title>
+<title>[COLOR orange][B]Week In Review by Dirty Workz[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrLUxmJpY6vNfUMrrbmG1Tc_</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-
-<title>Wolf Clan - Hard with a touch of Urban[Dirty Workz]</title>
-
+<title>[COLOR orange]Wolf Clan - Hard with a touch of Urban[Dirty Workz][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrLBuIrH4I7ZHMFXihv6XtwT</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-
-<title>Global Dedication - The Podcast[Dirty Workz]</title>
+<title>[COLOR orange]Global Dedication - The Podcast[Dirty Workz][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrJCNMaHw-xaE1cN0hHVE_sk</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-
-
-<title>Anarchy - Releases (Raw Hardstyle)[Dirty Workz]</title>
+<title>[COLOR orange]Anarchy - Releases (Raw Hardstyle)[Dirty Workz][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrJYiSLgm6SIBf4x5nSVgJfm</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-
-
-<title>Isaac's Hardstyle Sessions[Dirty Workz]</title>
+<title>[COLOR orange]Isaac's Hardstyle Sessions[Dirty Workz][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLDCD8491699D1E841</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-
-
-<title>Dirty Workz - Video Clips</title>
+<title>[COLOR orange]Dirty Workz - Video Clips[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL1A9CC8FC89BA6A7D</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-
-
-<title>DWX Update - Releases (Sounds of the Future)[Dirty Workz]</title>
+<title>[COLOR orange]DWX Update - Releases (Sounds of the Future)[Dirty Workz][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL29C7F79349AECBF1</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-
-
-<title>Dirty Workz - Releases</title>
+<title>[COLOR orange]Dirty Workz - Releases[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLAF6181D582E96A3C</link/>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-
-
-<title>Dirty Workz Favourites</title>
+<title>[COLOR orange]Dirty Workz Favourites[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=FLt8hUmML7zjM6effdZ3Ip5A</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-
-
-<title>Liked videos[Dirty Workz]</title>
+<title>[COLOR orange]Liked videos[Dirty Workz][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=LLt8hUmML7zjM6effdZ3Ip5A</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
 
-<title>[COLOR red][B]Blackhole Recordings[/B][/COLOR]</title>
 
-<title>AVA Recordings[Blackhole Recordings]</title>
+<title>[COLOR red][B]Blackhole Recordings[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm06sLbxgWmc4sKIySZcvGUd</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>In Trance We Trust[Blackhole Recordings]</title>
+<title>[COLOR red]In Trance We Trust[Blackhole Recordings][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLB563927546CC3ECC</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Damaged Records[Blackhole Recordings]</title>
+<title>[COLOR red]Damaged Records[Blackhole Recordings][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0DBfkgqXUVpHXt_E1v_CzX</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Rielism[Blackhole Recordings]</title>
+<title>[COLOR red]Rielism[Blackhole Recordings][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm2JqgaqV2I3f-8x4GJ2jkYH</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>UltraViolet Music[Blackhole Recordings]</title>
+<title>[COLOR red]UltraViolet Music[Blackhole Recordings][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm3gL_4snJdp3gZg7wCe3cFf</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Create Music[Blackhole Recordings]</title>
+<title>[COLOR red]Create Music[Blackhole Recordings][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm3-jFIve-LVAstE9d7xPxfy</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Outburst Records[Blackhole Recordings]</title>
+<title>[COLOR red]Outburst Records[Blackhole Recordings][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0CHjpeS33hXiW4_Fo395-p</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Pure Progressive[Blackhole Recordings]</title>
+<title>[COLOR red]Pure Progressive[Blackhole Recordings][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0IPCzXxtq0a8zfXmVmVrGD</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>M.I.K.E. Push Studio[Blackhole Recordings]</title>
+<title>[COLOR red]M.I.K.E. Push Studio[Blackhole Recordings][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0BtxwHE_egPArTP8M_tiAj</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Magik Muzik[Blackhole Recordings]</title>
+<title>[COLOR red]Magik Muzik[Blackhole Recordings][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLEF9A818E4AEDF897</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Perfecto Black[Blackhole Recordings]</title>
+<title>[COLOR red]Perfecto Black[Blackhole Recordings][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm0gU0v67CztgRPzTxOv2ih0</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Cycles[Blackhole Recordings]</title>
+<title>[COLOR red]Cycles[Blackhole Recordings][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm28feKSR9T1CHDnyPYzqV5n</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Avanti[Blackhole Recordings]</title>
+<title>[COLOR red]Avanti[Blackhole Recordings][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL15F45E923FA77DC7</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
 
-<title>[COLOR orange][B]The Hardstyle Musicz[/B][/COLOR]</title>
 
-<title>Euphoric</title>
+<title>[COLOR orange][B]Euphoric[The Hardstyle Musicz][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLq2pjFm4O6TA-eFNMf-7rSRQzSa4ab-gX</link>
 <thumbnail>https://yt3.ggpht.com/-2f-faUAveeg/AAAAAAAAAAI/AAAAAAAAAAA/3LZ4bLzDuxM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Raw</title>
+<title>[COLOR orange][B]Raw[The Hardstyle Musicz][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLq2pjFm4O6TAnNVpHM83SGt7eFKKOyhpb</link>
 <thumbnail>https://yt3.ggpht.com/-2f-faUAveeg/AAAAAAAAAAI/AAAAAAAAAAA/3LZ4bLzDuxM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Hard Drop/Experimental/Old School</title>
+<title>[COLOR orange][B]Hard Drop/Experimental/Old School[The Hardstyle Musicz][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLq2pjFm4O6TD3tsL7rh52FuMAlDlhcmzs</link>
 <thumbnail>https://yt3.ggpht.com/-2f-faUAveeg/AAAAAAAAAAI/AAAAAAAAAAA/3LZ4bLzDuxM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Rawphoric</title>
+<title>[COLOR orange][B]Rawphoric[The Hardstyle Musicz][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLq2pjFm4O6TAdevC0_dOwNQa0i-7iPA4g</link>
 <thumbnail>https://yt3.ggpht.com/-2f-faUAveeg/AAAAAAAAAAI/AAAAAAAAAAA/3LZ4bLzDuxM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>ThrowbackThursdays (#tbt)</title>
+<title>[COLOR orange][B]ThrowbackThursdays(#tbt)[The Hardstyle Musicz][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLq2pjFm4O6TB9DTntj64qBsZFMrQhoHBj</link>
 <thumbnail>https://yt3.ggpht.com/-2f-faUAveeg/AAAAAAAAAAI/AAAAAAAAAAA/3LZ4bLzDuxM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
 
-<title>[COLOR red][B]EuphoricHardStyleZ[/B][/COLOR]</title>
 
-<title>Retail Releases (Radio & Original Mix)</title>
+<title>[COLOR red][B]Retail Releases (Radio & Original Mix)[EuphoricHardStyleZ][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLnqPGnYxh5wam1USI7QJu18wfDhOkq6er</link>
 <thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Mixes/Mashups (Several tracks joined)</title>
+<title>[COLOR red][B]Mixes/Mashups (Several tracks joined)[EuphoricHardStyleZ][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLnqPGnYxh5waQ287QBhowUFED7FZo08Tl</link>
 <thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Previews & Rips (Live/Radio Stream)</title>
+<title>[COLOR red][B]Previews & Rips (Live/Radio Stream)[EuphoricHardStyleZ][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLnqPGnYxh5wYQSGNy-VtyU5987AUwriks</link>
 <thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Free Releases</title>
+<title>[COLOR red][B]Free Releases[EuphoricHardStyleZ][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLnqPGnYxh5wacudw7h0ue4uOAa-urIxHY</link>
 <thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Radio Edits (Original Edit)</title>
+<title>[COLOR red][B]Radio Edits (Original Edit)[EuphoricHardStyleZ][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLnqPGnYxh5warrQSfDNaboed-mAGBz19a</link>
 <thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Full-length (Original Mix)</title>
+<title>[COLOR red][B]Full-length (Original Mix)[EuphoricHardStyleZ][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLnqPGnYxh5wYWFG4h526W8IChoTdl-P9N</link>
 <thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
 
-<title>[COLOR orange][B]Q-dance[/B][/COLOR]</title>
 
-<title>Defqon.1 Weekend Festival 2017</title>
+<title>[COLOR orange][B]Defqon.1 Weekend Festival 2017[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKWGWkwuvKCP0KRsh7xaJ3Sg</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>This is Defqon.1</title>
+<title>[COLOR orange][B]This is Defqon.1[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKUyEssw4OD3YqvfcQCuwGwc</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Defqon.1 Festival</title>
+<title>[COLOR orange][B]Defqon.1 Festival[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKW2bYVILpNICo7bOjArDWlx</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Official Q-dance Anthems & Soundtracks</title>
+<title>[COLOR orange][B]Official Q-dance Anthems & Soundtracks[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKXmQkCVmAip_zTX5i3Guqkw</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Q-dance Aftermovies</title>
+<title>[COLOR orange][B]Q-dance Aftermovies[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKVCsvUsD-xkpkIg-It0kFZJ</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Q-dance Trailers</title>
+<title>[COLOR orange][B]Q-dance Trailers[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKXcgJpLoGHCXuT4baA5j6Gc</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Defqon.1 Endshows</title>
+<title>[COLOR orange][B]Defqon.1 Endshows[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKVY0RN-GH_kZWPIaSaH_Gq7</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Defqon.1 Aftermovies</title>
+<title>[COLOR orange][B]Defqon.1 Aftermovies[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKULLx3bx8k4RRt7ALpmSJ7h</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Q-BASE</title>
+<title>[COLOR orange][B]Q-BASE[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKUVzmo9R1F8mP3TD6oyiwef</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>The colors of Defqon.1 2017</title>
+<title>[COLOR orange][B]The colors of Defqon.1 2017[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKVIy68GVvRmLRds2zvmKJY1</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Official Q-dance Aftermovies</title>
+<title>[COLOR orange][B]Official Q-dance Aftermovies[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKWUwOjcYV_AQ1K1Ju2NRIRa</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Defqon.1 Weekend Festival 2016</title>
+<title>[COLOR orange][B]Defqon.1 Weekend Festival 2016[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKXO35RWMGMzCDwMsyj1V6dm</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Qlimax 2016 | Live Sets</title>
+<title>[COLOR orange][B]Qlimax 2016 | Live Sets[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKXfJSa3NY0Ya-lv0O9Tl8AX</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Qlimax</title>
+<title>[COLOR orange][B]Qlimax[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKWdfqZdhdTRtgebmO32o08G</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Defqon.1 Weekend Festival 2016 | Live sets</title>
+<title>[COLOR orange][B]Defqon.1 Weekend Festival 2016 | Live sets[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKUEq2FW8sL7lFvGNYq-NTum</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Q-BASE 2016 | Live sets</title>
+<title>[COLOR orange][B]Q-BASE 2016 | Live sets[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKV94LT_irq-e6DGN7vn90zw</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Freaqshow</title>
+<title>[COLOR orange][B]Freaqshow[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKUdswaq58gMhykqtF7hD2tu</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>Freaqshow | Anthems</title>
+<title>[COLOR orange][B]Freaqshow | Anthems[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKU4E2nrw1m2-bj9ne69TDNw</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 
