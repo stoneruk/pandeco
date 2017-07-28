@@ -1,0 +1,447 @@
+<title>[COLOR red][B]Requiem [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSeY9vlxOLb1Tj4YErksYp1p</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Pulse [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSfXRxMQxiDE9cqu3NKj1J5o</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Retrospect [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSeUKa67Ix1uAC7OrIRq_Jcv</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Avana [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSfDNFy6nYS0Np0lJmAGTDJH</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Deluzion [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeScPZMlGIgEVHlVGAmK47LMr</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Notorious Two [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSdoP8Rg9mfhlhpIo3Oolxi_</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Nightfall [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSdxX9D4IrTU7lrPfzE_XSJE</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Zany [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLE5749D06C56DFE76</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]B-Front [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLAD91866219B64BA1</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]The Pitcher [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLE055ED36E254FF45</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Donkey Rollers [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL13D9F90C4EB0F04C</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Slim Shore [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL4D55919D61EDD71A</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]MC DV8 [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL596302B41C271671</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Frequencerz [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL4E81036AE368DC14</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Titan [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL3B42BA390AAE4474</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Donkey Rollers - 15 Years of Hardstyle [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSdsu9-vk7joo7BN-3_QisVF</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]CaZ [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSfMNoMBRXsSuOfYj_VNWAci</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]DV8 Rocks! [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSc5YgK-PDqm6JlyBzLWupp3</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]inZanity - The Freestyle Podcast [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSeEg3HbUUa__4Si9XDnF2JP</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Retrospect - Retrovision [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSfnyUyqq2SoAejFFTOIlYNd</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Rebourne [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLE42F6FE7EB244B38</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Demolition of Silence [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSdRwupjphw9M2DWYC5IGwPZ</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Shellshock [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSdlBVoXyCw9fr672_dDRnpY</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Yearmixes [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSc3mIfkv_ty2kpKrJRQ3VV4</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]NitrouZ [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL2DDF803133F65BFF</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Toneshifterz [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL418D51A8A8FEDAC9</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Jack of Sound [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL9330A480778BFFA6</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Omegatypez [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL24E4D4D5A3F0A4EC</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Southstylers[Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSc0P3IdociL9PqZ8zJkrLrX</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Noisecontrollers [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLAE708C504C2AB274</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Music Videos[Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL72CAF38757B4C50D</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]The Pitcher - Shock and Awe [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSdoWaxJCaUp4euhik0Hus4O</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Code Black [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL2FB5DA0E6F5CC730</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Dozer Playlist [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLA99D55450963D19E</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Early Hardstyle [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL5D81B0E2F2358D97</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Planet Zany [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSc9WxrGvX5P3ZM1t02Hq0SU</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Superplastik [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSfYsfxOHnw6ZXmerFfIrcdC</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]#HQ Podcast [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLsoFySl1zeSe-D2h-GLKbbWvTmDF_5Uyk</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion // Audio Playlist [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLFBD7FB7176AED8C3</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion // Video Playlist [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL3A3014675D54BC25</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Aftermovies [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL80D8EF920F1C40E4</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion of Sound Tour [Fusion Records][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL83308D002B23E4CF</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>[COLOR red][B]Fusion Records[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Records[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Records[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Records[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Records[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Records[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Records[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Records[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Records[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Records[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Records[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR red][B]Fusion Records[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -20,10 +20,18 @@
 
 
 <dir>
+<name>[COLOR red][B]Fusion Records[/B][/COLOR]</name>
+<link>https://raw.githubusercontent.com/stoneruk/pandeco/master/b2s.txt</link>
+<thumbnail>https://yt3.ggpht.com/-VdXCpWnDZT4/AAAAAAAAAAI/AAAAAAAAAAA/7KX4BCsrjg4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</dir>
+
+
+<dir>
 <name>[COLOR blue][B]b2s[/B][/COLOR]</name>
 <link>https://raw.githubusercontent.com/stoneruk/pandeco/master/b2s.txt</link>
 <thumbnail>https://yt3.ggpht.com/-SDzReof35B4/AAAAAAAAAAI/AAAAAAAAAAA/HxsezOhV9zc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </dir>
+
 
 
 <dir>
