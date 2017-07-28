@@ -15,32 +15,32 @@
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]Wolf Clan - Hard with a touch of Urban[Dirty Workz] [/B][/COLOR]</title>
+<title>[COLOR orange]Wolf Clan-Hard with a touch of Urban(Dirty Workz)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrLBuIrH4I7ZHMFXihv6XtwT</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]Global Dedication - The Podcast[Dirty Workz] [/B][/COLOR]</title>
+<title>[COLOR orange]Global Dedication-The Podcast(Dirty Workz)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrJCNMaHw-xaE1cN0hHVE_sk</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]Anarchy - Releases (Raw Hardstyle)[Dirty Workz] [/B][/COLOR]</title>
+<title>[COLOR orange]Anarchy-Releases (Raw Hardstyle)(Dirty Workz)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrJYiSLgm6SIBf4x5nSVgJfm</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]Isaac's Hardstyle Sessions[Dirty Workz] [/B][/COLOR]</title>
+<title>[COLOR orange]Isaac's Hardstyle Sessions(Dirty Workz)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLDCD8491699D1E841</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]Dirty Workz - Video Clips[/B][/COLOR]</title>
+<title>[COLOR orange]Dirty Workz-Video Clips[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL1A9CC8FC89BA6A7D</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
-<title>[COLOR orange]DWX Update - Releases (Sounds of the Future)[Dirty Workz][/B][/COLOR]</title>
+<title>[COLOR orange]DWX Update-Releases (Sounds of the Future)[Dirty Workz][/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL29C7F79349AECBF1</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
