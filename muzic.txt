@@ -6,14 +6,14 @@
 <fanart></fanart>
 
 
-<title>Hardstyleofchoice-Hardstyle</title>
+<title>[COLOR red][B]Hardstyleofchoice-Hardstyle[/B][/COLOR]</title>
 <title>Hardstyleofchoice-Hardstyle Mixes</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PL0GVNeUz0_Fl_YknDZbiMHxTH3mlqbS9C</link>
 <thumbnail>https://yt3.ggpht.com/-djqK-u0E1Ek/AAAAAAAAAAI/AAAAAAAAAAA/_hRNo-faKl0/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
 
-<title>Dirty Workz</title>
+<title>[COLOR orange][B]Dirty Workz[/B][/COLOR]</title>
 <title>Week In Review by Dirty Workz</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLqW-xw4e2GrLUxmJpY6vNfUMrrbmG1Tc_</link>
 <thumbnail>https://yt3.ggpht.com/-krs7Db9iNAk/AAAAAAAAAAI/AAAAAAAAAAA/Ue_ZR6RHMlM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -81,7 +81,7 @@
 <fanart></fanart>
 
 
-<title>Blackhole Recordings</title>
+<title>[COLOR red][B]Blackhole Recordings[/B][/COLOR]</title>
 <title>AVA Recordings[Blackhole Recordings]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLkfkqDodBEm06sLbxgWmc4sKIySZcvGUd</link>
 <thumbnail>https://yt3.ggpht.com/-jhRIq1c5giU/AAAAAAAAAAI/AAAAAAAAAAA/PS5ETqkp8IQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -148,7 +148,7 @@
 <fanart></fanart>
 
 
-<title>The Hardstyle Musicz</title>
+<title>[COLOR orange][B]The Hardstyle Musicz[/B][/COLOR]</title>
 <title>Euphoric</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLq2pjFm4O6TA-eFNMf-7rSRQzSa4ab-gX</link>
 <thumbnail>https://yt3.ggpht.com/-2f-faUAveeg/AAAAAAAAAAI/AAAAAAAAAAA/3LZ4bLzDuxM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -175,7 +175,7 @@
 <fanart></fanart>
 
 
-<title>EuphoricHardStyleZ</title>
+<title>[COLOR red][B]EuphoricHardStyleZ[/B][/COLOR]</title>
 <title>Retail Releases (Radio & Original Mix)</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLnqPGnYxh5wam1USI7QJu18wfDhOkq6er</link>
 <thumbnail>https://yt3.ggpht.com/-i1kGynJ31Vw/AAAAAAAAAAI/AAAAAAAAAAA/4pRrlr2vlN8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
