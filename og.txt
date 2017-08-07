@@ -50,7 +50,6 @@
 <fanart></fanart>
 
 
-
 <title>[COLOR blue][B]Charlie Adam Episode 1 - School of Hard Knocks at Ibrox, Le Guen era[/B][/COLOR]</title>
 <link>https://www.youtube.com/embed/JATSkJ5d-fk/edit</link>
 <thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -79,6 +78,14 @@
 <fanart></fanart>
 <title>[COLOR green][B]Si Ferry Meets...Aiden McGeady Episode 3 - 2007 - 2010 Celtic years, Leaving for Russia[/B][/COLOR]</title>
 <link>https://www.youtube.com/embed/LJxeszWwVGI/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR green][B]Si Ferry Meets...Aiden McGeady Episode 4 - Playing against Celtic, Life & (Crazy) Times in Russia[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/k0Z9fSpgN1M/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR green][B]Si Ferry Meets...Aiden McGeady Episode 5 - Moving to Everton & loans to Sheff Wed & Preston[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/KNI14Ky0ggw/edit</link>
 <thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 
