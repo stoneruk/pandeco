@@ -112,3 +112,9 @@
 <link>https://www.youtube.com/embed/VWgl-wagdCs/edit</link>
 <thumbnail>https://yt3.ggpht.com/-PObVFMEYOGY/AAAAAAAAAAI/AAAAAAAAAAA/ySG64LFzHH8/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
+
+<title>[COLOR blue][B]Mayweather vs. McGregor: Weigh-In[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/S3aKhaLXg-I/edit</link>
+<thumbnail>https://yt3.ggpht.com/-p1-41FLLpN8/AAAAAAAAAAI/AAAAAAAAAAA/-v1npp4u7cU/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
