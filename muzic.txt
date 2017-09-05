@@ -178,6 +178,21 @@
 
 
 
+<title>[COLOR orange][B]Q-BASE[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKUVzmo9R1F8mP3TD6oyiwef</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR orange][B]The Colours of Defqon.1 Australia 2017[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKX3by_Nr15SQAddCyYKNuo1</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR orange][B]Qlimax[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKWdfqZdhdTRtgebmO32o08G</link>
+<thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
 <title>[COLOR orange][B]Defqon.1 Weekend Festival 2017[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLQjtO2fjgHKWGWkwuvKCP0KRsh7xaJ3Sg</link>
 <thumbnail>https://yt3.ggpht.com/-S9oh92ajGNM/AAAAAAAAAAI/AAAAAAAAAAA/V_r2_7yYskw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>

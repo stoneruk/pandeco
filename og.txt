@@ -108,13 +108,23 @@
 <fanart></fanart>
 
 
-<title>[COLOR blue][B]Mayweather vs. McGregor: Weigh-In[/B][/COLOR]</title>
-<link>https://www.youtube.com/embed/PUMVQI5CyvI/edit</link>
-<thumbnail>https://yt3.ggpht.com/-PObVFMEYOGY/AAAAAAAAAAI/AAAAAAAAAAA/ySG64LFzHH8/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<title>[COLOR orange][B]Si Ferry Meets...Kris Boyd Episode 1 - Kilmarnock Education, Move to Rangers, Problems under Le Guen[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/dw63pl_NFqw/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
-
-<title>[COLOR blue][B]Mayweather vs. McGregor: Weigh-In[/B][/COLOR]</title>
-<link>https://www.youtube.com/embed/S3aKhaLXg-I/edit</link>
-<thumbnail>https://yt3.ggpht.com/-p1-41FLLpN8/AAAAAAAAAAI/AAAAAAAAAAA/-v1npp4u7cU/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<title>[COLOR orange][B]Si Ferry Meets...Kris Boyd Episode 2 - PLG Exit, Walter Smith, Role for Gers and SPL Goal Record[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/dl1BG1AqzFA/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
-
+<title>[COLOR orange][B]Si Ferry Meets...Kris Boyd Episode 3 - Leaving Rangers, Scotland Retirement, Boro, Forest[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/3MBXsBmiza4/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR orange][B]Si Ferry Meets...Kris Boyd Episode 4 - Madness in Turkey, Portland Timbers in the MLS[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/Z1L_LwqTeSg/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR orange][B]Si Ferry Meets...Kris Boyd Episode 5 - Back to Killie, Disastrous 2nd spell at Rangers & the future[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/yKvxNJMXek/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>

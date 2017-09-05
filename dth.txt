@@ -1,0 +1,29 @@
+<title>[COLOR orange][B]Hardstyle Month Collection [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLt0T6v6rrMhI3zj62RCCJZ6P9jIlwrkjg</link>
+<thumbnail>https://yt3.ggpht.com/-RCVdutbqAZ8/AAAAAAAAAAI/AAAAAAAAAAA/sjxLUP4sk_Q/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR orange][B]Festival Warm Up [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLUYZJPaAG5LUYWDV5Fq5Z9rDD4XxSwbfr</link>
+<thumbnail>https://yt3.ggpht.com/-aHw95ikFWuU/AAAAAAAAAAI/AAAAAAAAAAA/YxFjGM_n6QA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR orange][B]HardstyleUp2Datez-Euphoric Hardstyle Mixes[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLDdDd8awUniREYHpUmGC2Rhdl8qTWDy8V</link>
+<thumbnail>https://yt3.ggpht.com/-RL5Nn7neALk/AAAAAAAAAAI/AAAAAAAAAAA/AdMFrGYOQy8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR orange][B]Hardstyle Remixes of Popular Songs[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLgx-1wGBCJ3OBt1waKsAZoeMmfQMO8NhM</link>
+<thumbnail>https://yt3.ggpht.com/-phrnbVof1HY/AAAAAAAAAAI/AAAAAAAAAAA/1SuweeGGVjo/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR orange][B]Hardstyle 2017 New Songs[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLgx-1wGBCJ3OPgtnACXImQlR-3jAiKXXX</link>
+<thumbnail>https://yt3.ggpht.com/-phrnbVof1HY/AAAAAAAAAAI/AAAAAAAAAAA/1SuweeGGVjo/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR orange][B]Festival Mixes[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL9f_54ZdQRoI13rDwIDlQ1rA7Cx8fXHth</link>
+<thumbnail>https://yt3.ggpht.com/-y8n-ia1dg5I/AAAAAAAAAAI/AAAAAAAAAAA/wYvieu4EcjM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
