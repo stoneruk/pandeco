@@ -128,3 +128,41 @@
 <link>https://www.youtube.com/embed/yKvxNJMXek/edit</link>
 <thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
+
+
+<title>[COLOR orangered][B]Si Ferry Meets...Scott McDonald Ep 1 - Growing up a Celtic fan, Southampton, 'Mental' Motherwell[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/zTKpmlcTXAA/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR orangered][B]Si Ferry Meets...Scott McDonald Ep 2 - Helicopter Sunday, Rangers Bid, Celtic & Gordon Strachan[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/jwUDqAIXfFY/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR orangered][B]Si Ferry Meets...Scott McDonald Ep 3 - Scoring against AC Milan, beating Rangers to the title in '08[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/bzxVUSAs-HM/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR orangered][B]Si Ferry Meets...Scott McDonald Ep 4 - 'Fluffing' 4IAR, Stormy times with Mowbray, Celtic exit[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/6kf6sAuDfLk/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR orangered][B]Si Ferry Meets...Scott McDonald Ep 5 - Boro under Strachan, Unexpected Mowbray Reunion, The Future[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/TcE2EoAvMV4/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+
+<title>[COLOR blue][B]Si Ferry Meets...Barry Ferguson Episode 1 - Rangers Education, Breaking into 1st Team, Captaincy[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/Qe1F4CtMJLg/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR blue][B]Si Ferry Meets...Barry Ferguson Episode 2 - Treble, Moving to Blackburn, Rangers Return, PLG[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/ZCdJp2YSQF8/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR blue][B]Si Ferry Meets...Barry Ferguson Ep 3 - UEFA Cup, Scotland/Burley Boozegate, Birmingham, Clyde[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/A16eLKHB9FA/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
