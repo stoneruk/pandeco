@@ -152,7 +152,6 @@
 <fanart></fanart>
 
 
-
 <title>[COLOR blue][B]Si Ferry Meets...Barry Ferguson Episode 1 - Rangers Education, Breaking into 1st Team, Captaincy[/B][/COLOR]</title>
 <link>https://www.youtube.com/embed/Qe1F4CtMJLg/edit</link>
 <thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -165,4 +164,78 @@
 <link>https://www.youtube.com/embed/A16eLKHB9FA/edit</link>
 <thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
+
+<title>[COLOR orangered][B]Si Ferry Meets...James McFadden Episode 1 - Making it at Motherwell, Standing out, Celtic interest[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/5KfhEaLvj_g/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR orangered][B]Si Ferry Meets...James McFadden Episode 2 - Everton Days, Birmingham & Return to Scotland[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/cZcm7tytOyQ/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR orangered][B]Si Ferry Meets...James McFadden Episode 3 - Scotland Interview Special[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/kmx0RNJG-3A/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR green][B]Si Ferry Meets...Frank McAvennie Episode 1 - Making it Late at St Mirren, West Ham, London & Celtic[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/lWA_eOUuzPw/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR green][B]Si Ferry Meets...Frank McAvennie Episode 2 - Celtic Centenary, The Fight at Ibrox, World Cup '86[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/NRMStTU__24/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR blue][B]Si Ferry Meets...Lee McCulloch Ep 1 - Motherwell, Wigan, Moving to Rangers, UEFA Cup Final[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/LlAPZsTB7kM/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR blue][B]Si Ferry Meets...Lee McCulloch Episode 2 - Administration, Rangers Captaincy, Departure, Killie Job[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/WZB9srpPjVc/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR green][B]Si Ferry Meets...Kris Commons Episode 1 - Youth Football, Forest, Derby, 1st Season at Celtic[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/y1IP94U8jCM/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR green][B]Si Ferry Meets...Kris Commons Episode 2 - UCL Last 16, POTY, Ronny Deila, Hibs & leaving Celtic[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/BbO50tD_Jmk/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+<title>[COLOR white][B] Chick Young Meets...Si Ferry Episode 1 - Tommy Gravesen[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/UroYWXb9f3I/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR white][B] Chick Young Meets...Si Ferry Episode 2 - Paolo Di Canio[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/2gIvG2GUSLY/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR white][B]Chick Young Meets...Si Ferry Episode 3 - USA Celtic Night Out[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/GgZaR_gel8k/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+<title>[COLOR white][B]Chick Young Meets...Si Ferry Episode 4 - Youth Days at Celtic[/B][/COLOR]</title>
+<link>https://www.youtube.com/embed/w5KESmeI-DI/edit</link>
+<thumbnail>https://yt3.ggpht.com/-uPtL3mgTkQo/AAAAAAAAAAI/AAAAAAAAAAA/37k-PiFdIFo/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
